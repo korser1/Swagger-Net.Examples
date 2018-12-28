@@ -7,7 +7,7 @@ and: https://mattfrear.com/2015/04/21/generating-swagger-example-responses-with-
 
 | :mega: This is not the ASP.NET Core version |
 |--------------|
-| This library works with [Swagger.Net](https://github.com/domaindrivendev/Swagger.Net), which is what you will want to use if you are using ASP.NET Web API. |
+| This library works with [Swagger-Net](https://github.com/heldersepu/Swagger-Net), which is what you will want to use if you are using ASP.NET Web API. |
 | If you are using ASP.NET Core , then you will want to use [Swagger.Net.AspNetCore](https://github.com/domaindrivendev/Swagger.Net.AspNetCore), and if you are using that then you will want to use my .NET Core version of this project,   ~Swagger.Net.AspNetCore.Examples~ [Swagger.Net.AspNetCore.Filters](https://github.com/mattfrear/Swagger.Net.AspNetCore.Filters). |
 
 ## Where to get it
