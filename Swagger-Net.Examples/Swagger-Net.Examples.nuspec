@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Swagger-Net.Examples</id>
+    <version>$version$</version>
+    <title>Swagger-Net.Examples</title>
+    <authors>korser</authors>
+    <licenseUrl>https://github.com/korser1/Swagger-Net.Examples/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/korser1/Swagger-Net.Examples</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds the SwaggerRequestExample and SwaggerResponseExample attribute for Swagger-Net. This will populate the example property of a schema object in the output swagger. This is a fork from Swashbuckle.Examples</description>
+    <copyright>Copyright 2018</copyright>
+    <tags>Swagger SwaggerUi Documentation Discovery AspNetWebApi Swagger-Net</tags>
+    <releaseNotes>
+      Upgrade to Swagger-Net 8.3.19.502
+    </releaseNotes>
+    <dependencies>
+      <dependency id="Swagger-Net" version="8.3.19.502" />
+    </dependencies>
+  </metadata>
+</package>
